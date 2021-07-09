@@ -1,0 +1,11 @@
+Daniels: Lodging, 155.76, 10/10/2020
+Shane & Co: Conference, 2020, 9/10/2020
+Filmore: Dinner, 46.75, 9/24/2019
+Code.org:  Conference, 4300, 6/12/2020
+PWC: Conference, 12034, 5/13/2020
+Cooper: Lodging, 234.34, 4/23/2020
+Tilman: Dinner, 46.45, 3/6/2020
+Grace Hopper: Conference, 24000, 9/12/2020
+Waltz: Lodging, 76.90, 3/9/2020
+Johnsons: Lodging, 390.67, 4/5/2020
+Tesla: Conference, 5498, 7/7/2020
